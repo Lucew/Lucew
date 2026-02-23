@@ -3,9 +3,10 @@
 I’m an engineer, computer scientist, and ML/data practitioner with a research background at FAU Erlangen-Nürnberg (Chair of Computer Science 6 / Evolutionary Data Management).
 
 In recent years, my work has focused on large-scale **time series integration** and **time series data mining** — with methods developed in this context also proving useful in other domains, including interplanetary robotics.\
-For this research, I collaborate with Siemens Energy, and my initial project on data integration has expanded to large-scale data mining. Some of my prototypes have even left localhost and are now hosted as internal applications.
+For this research, I collaborate with Siemens Energy, and my initial project on data integration has expanded to large-scale data mining.\
+Some of my **prototypes have even left localhost** and are now hosted as internal applications!
 
-What I enjoy most is working closely with the domain experts who own the problem: I thoroughly enjoy learning their perspective, new domain knowledge, specific constraints, and consolidating their input into useful algorithms and data processing systems.\
+What I enjoy most is **working closely with the domain experts** who own the problem: I thoroughly enjoy learning their perspective, new domain knowledge, specific constraints, and consolidating their input into useful algorithms and data processing systems.\
 I appreciate interdisciplinary topics because they offer so much to learn and also leave room for me to contribute my own expertise.
 
 I also bring a fairly broad technical background across different application areas. I originally studied engineering with a focus on information technology and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation), and biomedical applications.
