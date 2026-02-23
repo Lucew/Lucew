@@ -21,7 +21,11 @@ I care about **useful** ML/data solutions â€” not just strong results on paper â
 A Python package for **change point detection**.
 (SST, IKA-SST, ESST, uLSIF, RuLSIF, KLIEP, FLUSS, FLOSS, and more)
 
-After benefiting from open-source software countless times for many years, I built Changepoynt to give back by packaging core change-point detection algorithms from my research into a practical, accessible Python library.\
+**Changepoint** contains common change-point detection algorithms that I contributed to or use in my research and that are not readily available in other packages.
+
+After benefiting from open-source software countless times for many years, I wanted to do my part.
+
+By providing these implementations, we aim to make the methods easily accessible for other applications.\
 I currently use the package in the core of the data mining applications that I build for my project partners.
 
 ### [Fast SST](https://doi.org/10.1109/ACCESS.2025.3640386)
