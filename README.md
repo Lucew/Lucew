@@ -18,12 +18,17 @@ I care about **useful** ML/data solutions — not just strong results on paper �
 ## Selected Projects
 
 ### [changepoynt](https://github.com/Lucew/changepoynt)
-Python package for **change point detection**  
-(SST, IKA-SST, uLSIF, RuLSIF, KLIEP, FLUSS, FLOSS, and more)
+A Python package for **change point detection**.
+(SST, IKA-SST, ESST, uLSIF, RuLSIF, KLIEP, FLUSS, FLOSS, and more)
+
+After benefiting from open-source software countless times for many years, I built Changepoynt to give back by packaging core change-point detection algorithms from my research into a practical, accessible Python library.\
+I currently used the package in the core of the data mining applications that I build for my project partners.
 
 ### [Fast SST](https://doi.org/10.1109/ACCESS.2025.3640386)
 Accelerating change point detection by orders of magnitude (SST, O(N³) -> O(NlogN)).\
 For this one, I had the opportunity to go down the absolutely fascinating rabbit hole of (randomized) linear algebra to solve an actual scaling problem in my research. Learning about all the great work in this area has been a lot of fun!
+
+The paper is publicly available for everyone (open access).
 
 ### [Change Point Detection and Interplanetary Robotics](https://www.cs6.tf.fau.eu/von-zeitreihenintegration-zur-fehlererkennung-fuer-planetare-bohrroboter/)
 How my research on time-series integration and change-point detection applies to interplanetary drilling robots. [Update](https://www.cs6.tf.fau.eu/journal-paper-accepted-at-ieee-access-fast-singular-spectrum-transformation-change-point-detection-via-randomized-linear-algebra/)!
