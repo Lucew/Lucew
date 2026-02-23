@@ -22,7 +22,7 @@ A Python package for **change point detection**.
 (SST, IKA-SST, ESST, uLSIF, RuLSIF, KLIEP, FLUSS, FLOSS, and more)
 
 After benefiting from open-source software countless times for many years, I built Changepoynt to give back by packaging core change-point detection algorithms from my research into a practical, accessible Python library.\
-I currently used the package in the core of the data mining applications that I build for my project partners.
+I currently use the package in the core of the data mining applications that I build for my project partners.
 
 ### [Fast SST](https://doi.org/10.1109/ACCESS.2025.3640386)
 Accelerating change point detection by orders of magnitude (SST, O(N³) -> O(NlogN)).\
