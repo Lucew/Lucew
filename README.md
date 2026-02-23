@@ -24,7 +24,7 @@ A Python package for **change point detection**.
 After benefiting from open-source software countless times for many years, I wanted to do my part.
 
 The package contains methods that I either used in my research, proposed, or contributed to. I wanted to make my research accessible and usable in other applications, so I consolidated the methods into a pip-installable Python package.
-I currently use the package in the core of the data mining applications that I build for my project partners.
+I currently use the package in the core of the data mining applications that I'm building for my project partners.
 
 ### [Fast SST](https://doi.org/10.1109/ACCESS.2025.3640386)
 Accelerating change point detection by orders of magnitude (SST, O(N³) -> O(NlogN)).\
