@@ -39,7 +39,7 @@ For this one, I had the opportunity to go down the absolutely fascinating rabbit
 The paper is publicly available for everyone (open access).
 
 ### [Change Point Detection and Interplanetary Robotics](https://www.cs6.tf.fau.eu/von-zeitreihenintegration-zur-fehlererkennung-fuer-planetare-bohrroboter/)
-How my research on time-series integration and change-point detection applies to interplanetary drilling robots. [Update](https://www.cs6.tf.fau.eu/journal-paper-accepted-at-ieee-access-fast-singular-spectrum-transformation-change-point-detection-via-randomized-linear-algebra/)!
+How my research on time-series integration and change-point detection applies to interplanetary drilling robots. [Update](https://www.cs6.tf.fau.eu/paper-accepted-at-ieee-icra-2026-change-point-detection-for-autonomous-drilling/)!
 
 ### [User-driven Dashboards](https://doi.org/10.1145/3736733.3736742)
 How can we visualize large time series collections and their complex relationships?
