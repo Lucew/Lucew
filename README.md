@@ -10,7 +10,7 @@ In my current role, I'm mostly translating open-ended problem statements into st
 Some of my **prototypes have even left localhost** and are now hosted as internal applications!
 
 What I enjoy most is **working closely with the domain experts** who own the problem: I thoroughly enjoy learning their perspective, new domain knowledge, specific constraints, and consolidating their input into useful algorithms and data processing systems.\
-I appreciate interdisciplinary topics because they offer so much to learn and also leave room for me to contribute my own expertise.
+I appreciate interdisciplinary topics because they offer so much to learn, the opportunity to meet experts from other domains, and also leave room for me to contribute my own expertise.
 
 I also bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering) with a focus on signal processing and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation), and biomedical applications.
 
