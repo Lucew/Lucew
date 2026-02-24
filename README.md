@@ -5,7 +5,7 @@ I’m an engineer, computer scientist, and ML/data practitioner with a research 
 In recent years, my work has focused on large-scale **time series integration** and **time series data mining** — with methods developed in this context also proving useful in other domains, including interplanetary robotics.\
 For this research, I collaborate with Siemens Energy, and my initial project on data integration has expanded to large-scale data mining.
 
-In my current role I'm mostly translating open-ended problem statements into structured approaches, algorithmic designs, and implementable solutions.
+In my current role, I'm mostly translating open-ended problem statements into structured approaches, algorithmic designs, and implementable solutions.
 
 Some of my **prototypes have even left localhost** and are now hosted as internal applications!
 
