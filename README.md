@@ -14,7 +14,7 @@ I appreciate interdisciplinary topics because they offer so much to learn, the o
 
 I bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering) with a focus on signal processing and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation), and biomedical applications.
 
-Alongside my technical expertise, I have experiences with project management and acquisition, teaching on university level, and supervision of students.
+Alongside my technical expertise, I have experiences with research project management, project acquisition, teaching on university level, and supervision of students.
 
 
 I care about **useful** ML/data solutions — not just strong results on paper — and I enjoy taking ideas from exploration to implementation.
