@@ -8,7 +8,7 @@ For this research, I collaborate with Siemens Energy, and my initial project on 
 What I enjoy most is **working closely with the domain experts** who own the problem: I thoroughly enjoy learning their perspective, new domain knowledge, specific constraints, and consolidating their input into useful algorithms and data processing systems.\
 I appreciate interdisciplinary topics because they offer so much to learn, the opportunity to meet experts from other domains, and also leave room for me to contribute my own expertise.
 
-I bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering), focusing on signal processing, and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation).
+I bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering), focusing on signal processing, and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, and a short phase in **computer vision** (pose estimation).
 
 Alongside my technical expertise, I have experience in research project management, project acquisition, teaching at the university level, and supervising students.
 
