@@ -1,25 +1,16 @@
 # Hi, I'm Lucas 👋
 
-I’m an engineer, computer scientist, and ML/data practitioner with a research background at FAU Erlangen-Nürnberg (Chair of Computer Science 6 / Evolutionary Data Management).
+I’m an engineer and computer scientist with a research background at Friedrich-Alexander-Universität Erlangen-Nürnberg (CS6 / Evolutionary Data Management).
 
 In recent years, my work has focused on large-scale **time series integration** and **time series data mining** — with methods developed in this context also proving useful in other domains, including **interplanetary robotics**.\
 For this research, I collaborate with Siemens Energy, and my initial project on data integration has expanded to large-scale data mining.
 
-In my current role, I'm mostly translating open-ended problem statements into structured approaches, algorithmic designs, and implementable solutions.
-
-Some of my **prototypes have even left localhost** and are now hosted as internal applications!
-
 What I enjoy most is **working closely with the domain experts** who own the problem: I thoroughly enjoy learning their perspective, new domain knowledge, specific constraints, and consolidating their input into useful algorithms and data processing systems.\
 I appreciate interdisciplinary topics because they offer so much to learn, the opportunity to meet experts from other domains, and also leave room for me to contribute my own expertise.
 
-I bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering) with a focus on signal processing and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation), and biomedical applications.
+I bring a fairly broad technical background across different application areas. I originally studied information technology (electrical engineering), focusing on signal processing, and have previously worked on topics including **biomedical signal processing**, **algorithmic evaluation of automotive lighting systems**, a short phase in **computer vision** (pose estimation).
 
-Alongside my technical expertise, I have experiences with research project management, project acquisition, teaching on university level, and supervision of students.
-
-
-I care about **useful** ML/data solutions — not just strong results on paper — and I enjoy taking ideas from exploration to implementation.
-
-> 📌 I’ll soon be finishing my time at the university, and I am searching for new opportunities for turning data-heavy problems into reliable tools, workflows, and decisions — even if your problem is not primarily "time series".
+Alongside my technical expertise, I have experience in research project management, project acquisition, teaching at the university level, and supervising students.
 
 ## Selected Projects
 
@@ -34,7 +25,7 @@ I currently use the package in the core of the data mining applications that I'm
 
 ### [Fast SST](https://doi.org/10.1109/ACCESS.2025.3640386)
 Accelerating change point detection by orders of magnitude (SST, O(N³) -> O(NlogN)).\
-For this one, I had the opportunity to go down the absolutely fascinating rabbit hole of (randomized) linear algebra to solve an actual scaling problem in my research. Learning about all the great work in this area has been a lot of fun!
+For this one, I had the opportunity to go down the absolutely fascinating rabbit hole of (randomized) linear algebra to solve a real scaling problem in my research. Learning about all the great work in this area has been a lot of fun!
 
 The paper is publicly available for everyone (open access).
 
